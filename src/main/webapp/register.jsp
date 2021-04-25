@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Hcl User registration and login</title>
+<title>Hcl user registration and login</title>
 </head>
 <body>
 
