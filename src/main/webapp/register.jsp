@@ -1,10 +1,10 @@
 <html>
 <head>
-<title>Hcl technologies user registration and login</title>
+<title>Hcl User registration and login</title>
 </head>
 <body>
 
-	<h3>Reserved Rights</h3>
+	<h3>Hcl technologies</h3>
 
 
 	<form action="register" method="post">
