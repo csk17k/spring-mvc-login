@@ -1,10 +1,10 @@
 <html>
 <head>
-<title>Welcome to Hcl Technologies</title>
+<title>Hcl Login page</title>
 </head>
 <body>
 
-	<h3>Reserved Rights</h3>
+	<h3>Welcome to Hcl Technologies</h3>
 
 	    <strong><a href="register.jsp">New User Register here</a>| <a href="login.jsp">Click here to Login</a></strong>
 
