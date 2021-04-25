@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Hcl Login page</title>
+<title>Hcl Login Page</title>
 </head>
 <body>
 
